@@ -21,6 +21,8 @@ export default defineConfig({
             input: {
                 appCss: 'resources/css/app.css',
                 app: 'resources/js/app.js',
+                indexCss: 'resources/css/index.css',
+                index: 'resources/js/index.js',
             }
         }
     }
